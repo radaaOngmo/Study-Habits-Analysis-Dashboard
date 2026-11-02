@@ -1,3 +1,4 @@
+HEAD
 # Study Habits Analysis Dashboard
 Final clean, Bhutan-inspired Streamlit dashboard for the PRG405 project at Samtse College of Education.
 
@@ -54,3 +55,7 @@ If PowerShell says it cannot find `requirements.txt`, use VS Code **File → Ope
 - Added plain-language interpretations beneath the study schedule, bedtime, preferred study environment, learning approaches, exam review frequency and distraction frequency charts.
 - Added reading guidance beneath the relationship scatterplots and Spearman correlation heatmap/table.
 - Added the supplied classroom photo as the title-bar background only, with a translucent overlay so the title remains readable in both themes.
+
+# Study-Habits-Analysis-Dashboard
+Interactive Study Habits Analysis Dashboard – PRG405, Samtse College of Education
+ 0d5803a962e4f925d11048685d18c1bffd1fe4fc
